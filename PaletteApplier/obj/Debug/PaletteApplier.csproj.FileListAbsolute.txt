@@ -1,0 +1,10 @@
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\bin\Debug\PaletteApplier.exe.config
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\bin\Debug\PaletteApplier.exe
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\bin\Debug\PaletteApplier.pdb
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\obj\Debug\PaletteApplier.csproj.AssemblyReference.cache
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\obj\Debug\PaletteApplier.Form1.resources
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\obj\Debug\PaletteApplier.Properties.Resources.resources
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\obj\Debug\PaletteApplier.csproj.GenerateResource.cache
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\obj\Debug\PaletteApplier.csproj.CoreCompileInputs.cache
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\obj\Debug\PaletteApplier.exe
+C:\Users\userpc\source\repos\PaletteApplier\PaletteApplier\obj\Debug\PaletteApplier.pdb
